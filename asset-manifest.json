@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CisnerosG_parcial2/static/css/main.f855e6bc.css",
+    "main.js": "/CisnerosG_parcial2/static/js/main.bc0b2b8c.js",
+    "static/js/453.d12518db.chunk.js": "/CisnerosG_parcial2/static/js/453.d12518db.chunk.js",
+    "static/media/examen.jpg": "/CisnerosG_parcial2/static/media/examen.cc6048353322d694f205.jpg",
+    "index.html": "/CisnerosG_parcial2/index.html",
+    "main.f855e6bc.css.map": "/CisnerosG_parcial2/static/css/main.f855e6bc.css.map",
+    "main.bc0b2b8c.js.map": "/CisnerosG_parcial2/static/js/main.bc0b2b8c.js.map",
+    "453.d12518db.chunk.js.map": "/CisnerosG_parcial2/static/js/453.d12518db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bc0b2b8c.js"
+  ]
+}
